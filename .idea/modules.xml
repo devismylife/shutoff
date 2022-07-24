@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/shutoff.iml" filepath="$PROJECT_DIR$/.idea/shutoff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shutoff.iml" filepath="$PROJECT_DIR$/.idea/modules/shutoff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/shutoff.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/shutoff.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/shutoff.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/shutoff.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/shutoff.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/shutoff.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/shutoff.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/shutoff.app.unitTest.iml" />
     </modules>
   </component>
 </project>
